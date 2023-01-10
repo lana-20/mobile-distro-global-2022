@@ -14,5 +14,5 @@
 
 ----
 
-[Addotional Info on Mobile Distribution/Fragmentation](https://github.com/lana-20/mobile-fragmentation)
+[Additional Info on Mobile Distribution/Fragmentation](https://github.com/lana-20/mobile-fragmentation)
 
